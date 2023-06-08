@@ -183,6 +183,13 @@ transform: translateY(-5px);
   display: inline-block;
   background: #c8c0c0;
 }
+
+    .resume-button a {
+        color: inherit; 
+        text-decoration: none; 
+    }
+
+
 .contact-right form{
   width: 100%;
 }
